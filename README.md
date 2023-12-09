@@ -8,6 +8,8 @@ docker-compose build && docker-compose up -d
 
 Go to http://localhost:8501 to see the Streamlit frontend.
 
+Use the CSV file supplied with the Test on the Streamlit web app to see the results.
+
 ## Tech stacks:
 
 ### Backend
